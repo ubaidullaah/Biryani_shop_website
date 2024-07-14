@@ -2,14 +2,6 @@
 
 Welcome to the Biryani App, your ultimate destination for ordering delicious biryani dishes online!
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
-
 ## Introduction
 
 The Biryani App is a web application where customers can explore various types of biryani dishes and place orders directly through the website. Whether you're craving traditional Chicken Biryani, flavorful Chicken Pulao, sweet Zarda, refreshing Raita, or a crisp Salad, our app has something for every biryani enthusiast.
